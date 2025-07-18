@@ -1,6 +1,5 @@
 
 # Career Mentor Agent
-````markdown
 
 The **Career Mentor Agent** is a multi-agent system built using the [OpenAI Agents SDK](https://github.com/openai/openai-python/tree/main/packages/agents) with support for **Google Gemini 1.5 Flash** model via LiteLLM-compatible interface. This agent guides users through career exploration by suggesting fields, skill roadmaps, and real-world job roles.
 
