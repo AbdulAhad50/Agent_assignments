@@ -11,7 +11,7 @@ from agents import (
 from agents.run import RunConfig
 
 external_client = AsyncOpenAI(
-    api_key='AIzaSyDaD0rRW_lgE_ChKkuWC0jt7opsgcvj6ig',
+    api_key='YOUR_GEMINI_API_KEY',
     base_url="https://generativelanguage.googleapis.com/v1beta/openai/",
 )
 
